@@ -1,7 +1,5 @@
-# Multi-generation-evol-SS-env
+# Physiology evolution under monogamy & polygamy sexual selection in Drosophila
 Drosophila physiological evolution under sexual selection &amp; environmental pressure
-
-# Droso physiological evolution under sexual selection & environmental pressure
 
 This repository provides a **complete experimental evolution analysis pipeline** designed to study:
 
