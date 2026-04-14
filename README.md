@@ -1,5 +1,5 @@
 # Physiology evolution under monogamy & polygamy sexual selection in Drosophila
-Drosophila physiological evolution under sexual selection &amp; environmental pressure
+Drosophila physiological evolution under monogamy and polygamy sexual selection.
 
 This repository provides a **complete experimental evolution analysis pipeline** designed to study:
 
@@ -39,6 +39,8 @@ Biological problems addressed:
 • Does sexual selection alter stress resistance?
 • Are life-history tradeoffs shaped by mating system?
 • Does sexual selection drive multivariate divergence?
+
+The data is from Dryad: https://datadryad.org/dataset/doi:10.5061/dryad.9cnp5hqhk
 
 The framework follows methodology used in:
 
